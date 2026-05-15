@@ -1,4 +1,4 @@
-# 🎯 Stylish Counter Application
+# 🎯 React Interactive Counter Message App
 
 <p align="center">
   A simple React application that allows users to increase, decrease, and reset a counter while displaying live input messages and conditional goal notifications.
@@ -6,6 +6,14 @@
 
 <p align="center">
   ⚛️ React • 💬 Live Input
+</p>
+
+---
+
+<p align="center">
+  <a href="https://react-interactive-counter-message-a-psi.vercel.app/">
+    🔗 Live Demo
+  </a>
 </p>
 
 ---
