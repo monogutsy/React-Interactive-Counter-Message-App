@@ -42,7 +42,7 @@
 # 📂 Project Structure
 
 ```bash
-Stylish-Counter-App/
+React-Interactive-Counter-Message-App/
 │
 ├── public/
 │
